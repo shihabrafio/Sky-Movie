@@ -5,7 +5,7 @@ export const Card = () => {
     <div>
       <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow m-3 dark:bg-gray-800 dark:border-gray-700">
         <Link to="#">
-          <img className="rounded-t-lg" alt="" />
+          <img className="rounded-t-lg" src="" alt="" />
         </Link>
         <div className="p-5">
           <Link to="#">
