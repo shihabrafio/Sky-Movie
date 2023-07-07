@@ -1,4 +1,4 @@
-import { MovieDetail } from "./MovieDetail";
-import { Movielist } from "./Movielist";
-import { Search } from "./Search";
-import { PageNotFound } from "./PageNotFound";
+export { MovieDetail } from "./MovieDetail";
+export { Movielist } from "./Movielist";
+export { Search } from "./Search";
+export { PageNotFound } from "./PageNotFound";
