@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/shihabrafio/Movie-Api-React
+  git clone https://github.com/shihabrafio/Sky-Movie.git
 ```
 
 ### Install
@@ -109,10 +109,10 @@ To run tests, run:
 
 ### Deployment
 
-You can deploy this project using, Netlify:
+You can deploy this project using, Render:
 
 - I used Render to delpoy the project.
-- For more information, check [Netlify](https://www.render.com/) website.
+- For more information, check [Render](https://www.render.com/) website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
