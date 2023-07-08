@@ -1,3 +1,5 @@
+export { ScrollToTop } from "./ScrolltoTop";
+
 export { Button } from "./button";
 
 export { Card } from "./Card";
