@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/shihabrafio/Taskmate.git
+  git clone https://github.com/shihabrafio/Movie-Api-React
 ```
 
 ### Install
