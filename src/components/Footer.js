@@ -13,22 +13,22 @@ export const Footer = () => {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
-            <a href="#" className="mr-4 hover:underline md:mr-6 ">
+            <a href="https://github.com/shihabrafio" className="mr-4 hover:underline md:mr-6 ">
               Github
             </a>
           </li>
           <li>
-            <a href="#" className="mr-4 hover:underline md:mr-6">
+            <a href="https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/" className="mr-4 hover:underline md:mr-6">
               Linkedin
             </a>
           </li>
           <li>
-            <a href="#" className="mr-4 hover:underline md:mr-6">
+            <a href="https://wellfound.com/u/a-i-m-shihab-uddin-khan" className="mr-4 hover:underline md:mr-6">
               Wellfound
             </a>
           </li>
           <li>
-            <a href="#" className="hover:underline">
+            <a href="aimshihabuddinkhan@gmail.com" className="hover:underline">
               Contact
             </a>
           </li>
